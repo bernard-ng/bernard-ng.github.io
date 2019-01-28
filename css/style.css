@@ -1,3 +1,4 @@
+* { transition: all linear 1s !important; }
 body, html {
 	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
